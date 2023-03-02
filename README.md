@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonBundi
 - 👀 I’m interested in Machine Learning,Drones,Token Mining and Data Security
-- 🌱 I’m currently learning Programming, Aerospace Engineering
+- 🌱 I’m currently learning Programming, Aerospace Engineering, Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lmemebundi@gmail.com
 
